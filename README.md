@@ -1,116 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=120&section=header&text=JÓNÁS%20GERGELY&fontSize=60&fontColor=ffffff&animation=twinkling" width="100%"/>
-  
-  <br/>
-  <a href="https://jonasgergely.hu/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF2A2A&center=true&vCenter=true&width=600&lines=Mérnökinformatikus+Hallgató+(BME);Founder+%26+CEO+@+VibeSite;Kritikus+Rendszerek+%26+AI;10%2B+éve+klasszikus+gitáros" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=2" width="80%"/>
-</div>
-
-## 🔬 Profil & Fókusz
-
-> Mérnökinformatikus hallgató vagyok, akit a komplex rendszerek és a tiszta, tudományos architektúrák motiválnak. A kódolás számomra olyan, mint a zeneszerzés: struktúrát, ritmust és hibátlan végrehajtást követel.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      🎓 <b>Tanulmányok:</b> A BME mérnökinformatikus hallgatója vagyok (2023–2027), mesterséges intelligencia és rendszertervezés specializációval. Hibátlan vizsgamúlttal és folyamatosan 4.5 feletti átlaggal rendelkezem.
-    </td>
-    <td width="50%" valign="top">
-      🧠 <b>Kutatás & AI:</b> A szakdolgozatom fókuszában a generatív ágensrendszerek megbízhatóságának és költséghatékonyságának növelése áll, Neuro-Szimbolikus Architektúrák és Szemantikus Útválasztás (Semantic Routing) segítségével.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      🎼 <b>A zene algoritmusa:</b> Több mint 10 éve klasszikus gitározom. Hiszem, hogy a zene fegyelme és a frekvenciák matematikája tökéletesen átültethető az algoritmikus logikába.
-    </td>
-    <td width="50%" valign="top">
-      💼 <b>Szakmai fókusz:</b> Célom skálázható, magas rendelkezésre állású rendszerek tervezése és olyan komplex technikai problémák megoldása, ahol a mérnöki precizitás értéket teremt.
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=2" width="80%"/>
-</div>
-
-## 🚀 Tapasztalat & Projektek
-
-### 🏢 GVNETWORK AC Kft. | Founder & CEO *(2024. Júl. - Jelenleg)*
-Vezető szoftverarchitektként SaaS termékek teljes körű tervezését és fejlesztését irányítom, fókuszban az AI-vezérelt automatizációval.
-
-* 🌐 **VibeSite.hu (V.1.0):** AI-alapú weboldal generátor és telepítő platform, amely laikusoknak segít modern webes jelenlétet építeni. Stack: *Astro, React, Tailwind, Python, MongoDB*.
-* ⚡ **Klímahalom & MiZone:** Fejlesztés alatt álló rendszerek (Svelte, illetve Flutter/Firebase alapokon), utóbbi egy átfogó AI kurzusalkalmazás prototípusa.
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=2" width="80%"/>
-</div>
-
-## 🛠️ Technológiai Arzenál
-*A megfelelő eszközt a megfelelő feladatra.*
+<!--
+  Jónás Gergely · GitHub profil
+  Minden grafika kézzel épített, animált SVG az assets/ mappában (sötét és világos változat,
+  a GitHub témájához igazodik). A Hullámforma kártyát a .github/workflows/waveform.yml frissíti naponta.
+-->
 
 <div align="center">
 
-### ⚙️ Rendszer Mag & Deep Tech
-<img src="https://img.shields.io/badge/Java_(Spring_Boot)-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Go_(Gin/Fiber)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://jonasgergely.hu/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/hero-light.svg"><img alt="Jónás Gergely: mérnökinformatikus (BME), a VibeSite alapítója" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/hero-dark.svg" width="100%"></picture></a>
 
-### 🌐 Frontend & Multiplatform
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<br>
 
-### 🗄️ Backend, DevOps & Cloud
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h1-light.svg"><img alt="I. Prelúdium" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h1-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/prelude-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/prelude-light.svg"><img alt="A kódolás számomra olyan, mint a zeneszerzés: struktúrát, ritmust és hibátlan végrehajtást követel." src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/prelude-dark.svg" width="100%"></picture>
 
-</div>
+<br>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h2-light.svg"><img alt="II. Opus" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h2-dark.svg" width="100%"></picture>
+<a href="https://vibesite.hu/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op1-light.svg"><img alt="Op. 1: VibeSite, AI-alapú weboldal- és digitális jelenlét platform magyar KKV-knak" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op1-dark.svg" width="100%"></picture></a>
+<a href="https://jonasgergely.hu/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op2-light.svg"><img alt="Op. 2: Klinikai protokoll-ágens" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op2-dark.svg" width="49.9%"></picture></a><a href="https://jonasgergely.hu/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op3-light.svg"><img alt="Op. 3: GPU-s LLM-kiszolgálás" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op3-dark.svg" width="49.9%"></picture></a>
+<a href="https://jonasgergely.hu/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op4-light.svg"><img alt="Op. 4: Polcfigyelő gépi látás" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op4-dark.svg" width="49.9%"></picture></a><a href="https://github.com/snktibor/Nectar-TP-AI-Hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op5-light.svg"><img alt="Op. 5: NECTAR TP, PwC AI Hackathon" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/op5-dark.svg" width="49.9%"></picture></a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=2" width="80%"/>
-</div>
+<br>
 
-## 📊 Analitika & Teljesítmény
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h3-light.svg"><img alt="III. Hangszerelés" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h3-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/stack-light.svg"><img alt="Technológiák: Python, YOLOv8, Raspberry Pi, Claude, Gemini, FastAPI, Spring Boot, Go, Rust, React, Next.js, Astro, Tailwind, Svelte, Flutter, PostgreSQL, Redis, MongoDB, SQLite, Firebase, Linux, Docker, Kubernetes, NGINX, Cloudflare, GitHub Actions" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/stack-dark.svg" width="100%"></picture>
 
-<div align="center">
-  <a href="https://github.com/JGeri">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=JGeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=FF2A2A" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/JGeri">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGeri&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&colors=FF2A2A" alt="Top Languages" />
-  </a>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=2" width="80%"/>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h4-light.svg"><img alt="IV. Hullámforma" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h4-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/waveform-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/waveform-light.svg"><img alt="GitHub-hozzájárulások az elmúlt évben, hullámformaként" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/waveform-dark.svg" width="100%"></picture>
 
-## 📡 Kapcsolat & Protokoll
+<br>
 
-<div align="center">
-  <a href="https://jonasgergely.hu/">
-    <img src="https://img.shields.io/badge/Portfólió-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF2A2A&border=FF2A2A" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonasgergely">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF2A2A" />
-  </a>
-  <a href="mailto:jonas.gergely@gvnetwork.hu">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=FF2A2A" />
-  </a>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h5-light.svg"><img alt="V. Coda" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/h5-dark.svg" width="100%"></picture>
+<a href="https://jonasgergely.hu/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-portfolio-light.svg"><img alt="Portfólió: jonasgergely.hu" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-portfolio-dark.svg" width="33.3%"></picture></a><a href="https://www.linkedin.com/in/jonasgergely"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-linkedin-light.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-linkedin-dark.svg" width="33.3%"></picture></a><a href="mailto:jonas.gergely@gvnetwork.hu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-email-light.svg"><img alt="E-mail: jonas.gergely@gvnetwork.hu" src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/contact-email-dark.svg" width="33.3%"></picture></a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=10&section=footer" width="100%"/>
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/fine-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/fine-light.svg"><img alt="fine. Köszönöm, hogy végighallgattad." src="https://raw.githubusercontent.com/JGeri/JGeri/HEAD/assets/fine-dark.svg" width="100%"></picture>
+
 </div>
